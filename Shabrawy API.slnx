@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="5b6b1df5-f119-4db1-bcc9-c7b9e9170a0e" />
+  <Project Path="Domain/Domain.csproj" Id="6f4317e3-cf30-4899-94e3-182ec84b5ac3" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="20a7721a-8e1e-4094-8a59-80d7f3932dea" />
+  <Project Path="Shabrawy API/Shabrawy API.csproj" />
+</Solution>
