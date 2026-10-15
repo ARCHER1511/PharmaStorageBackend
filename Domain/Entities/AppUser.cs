@@ -11,7 +11,7 @@ namespace Domain.Entities
         public string FullName { get; set; } = string.Empty;
         public string JobTitle { get; set; } = string.Empty;
         //public CompanyType companyType { get; set; } = CompanyType.Default;
-        public string? contractedCompanyName { get; set; } = string.Empty;
+        public string? ContractedCompanyName { get; set; } = string.Empty;
         public AccountStatus status { get; set; } = AccountStatus.Pending;
         public string NationalIdFrontImagePath { get; set; } = string.Empty;
         public string NationalIdBackImagePath { get; set; } = string.Empty;

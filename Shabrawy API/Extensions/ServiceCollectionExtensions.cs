@@ -7,6 +7,7 @@ namespace Shabrawy_API.Extensions
         public static IServiceCollection AddScopedCollection(this IServiceCollection services)
         {
             services.AddScoped<ITokenService, TokenService>();
+            services.AddScoped<IAuthService, AuthService>();
             return services;
         }
     }

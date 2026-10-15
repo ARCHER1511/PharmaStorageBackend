@@ -171,3 +171,4 @@ D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy 
 D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Shabrawy API\obj\Debug\net10.0\Shabrawy API.pdb
 D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Shabrawy API\obj\Debug\net10.0\Shabrawy API.genruntimeconfig.cache
 D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Shabrawy API\obj\Debug\net10.0\ref\Shabrawy API.dll
+D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Shabrawy API\obj\Debug\net10.0\Shabrawy API.sourcelink.json

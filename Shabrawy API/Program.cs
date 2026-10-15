@@ -18,6 +18,7 @@ namespace Shabrawy_API
             builder.Services.AddSwaggerGen();
             // Add services from other layers (Infrastructure, Application, etc.)
             builder.Services.AddCustomIdentityServices(builder.Configuration);
+            builder.Services.AddScopedCollection();
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll", builder =>
@@ -28,7 +29,6 @@ namespace Shabrawy_API
                 });
             });
 
-            builder.Services.AddScopedCollection();
 
             var app = builder.Build();
 

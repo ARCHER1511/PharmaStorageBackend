@@ -1,9 +1,7 @@
-﻿using Application.Auth;
-using Application.DTOs;
-using Domain.Entities;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Identity;
+﻿using Application.DTOs;
+using Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Shabrawy_API.ResponseWrapper;
 
 namespace Shabrawy_API.Controllers
 {
@@ -11,46 +9,25 @@ namespace Shabrawy_API.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly UserManager<AppUser> _userManager;
+        private readonly IAuthService _authenticationService;
 
-        public AuthController(UserManager<AppUser> userManager)
+        public AuthController(IAuthService authenticationService)
         {
-            _userManager = userManager;
+            _authenticationService = authenticationService;
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register(
-[FromForm] RegisterDTO dto)
+        public async Task<IActionResult> Register([FromForm] RegisterDTO dto)
         {
-            if (dto.Password != dto.ConfirmPassword)
+            var result = await _authenticationService.RegisterAsync(dto);
+            if (!result.Success)
             {
-                return BadRequest("Passwords do not match");
+                return BadRequest(
+                    APIResponse<RegisterDTO>.ErrorResponse(result.Message, result.Errors)
+                );
             }
 
-            var user = new AppUser
-            {
-                UserName = dto.Email,
-                Email = dto.Email,
-                PhoneNumber = dto.PhoneNumber,
-                FullName = dto.FullName,
-                JobTitle = dto.JobTitle,
-                contractedCompanyName =
-            dto.ContractedCompanyName
-            };
-
-            var result = await _userManager.CreateAsync(
-            user,
-            dto.Password);
-
-            if (!result.Succeeded)
-                return BadRequest(result.Errors);
-
-            await _userManager.AddToRoleAsync(
-            user,
-            SystemRoles.Mandoob);
-
-            return Ok();
+            return Ok(APIResponse<RegisterDTO>.SuccessResponse(result.Data!, result.Message));
         }
-
     }
 }

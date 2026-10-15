@@ -13,3 +13,4 @@ D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy 
 D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Application\obj\Debug\net10.0\refint\Application.dll
 D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Application\obj\Debug\net10.0\Application.pdb
 D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Application\obj\Debug\net10.0\ref\Application.dll
+D:\_Development Vault\_Current Project\Shabrawy Pharma Company Project\Shabrawy API\Application\obj\Debug\net10.0\Application.sourcelink.json
