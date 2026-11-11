@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\responsewrapper\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\responsewrapper\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\shabrawy api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|solutionrelative:shabrawy api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\shabrawy api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|solutionrelative:shabrawy api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\shabrawy api\\responsewrapper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\shabrawy api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|solutionrelative:shabrawy api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\shabrawy api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|solutionrelative:shabrawy api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\responsewrapper\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\responsewrapper\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B890F0D3-989C-249C-4FDE-F69CD77847B8}|Shabrawy API\\Shabrawy API.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\shabrawy api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +67,12 @@
       "RelativeMoniker": "D:0:0:{20A7721A-8E1E-4094-8A59-80D7F3932DEA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\shabrawycontextdesignfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20A7721A-8E1E-4094-8A59-80D7F3932DEA}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\infrastructure\\data\\shabrawycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20A7721A-8E1E-4094-8A59-80D7F3932DEA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\shabrawycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F4317E3-CF30-4899-94E3-182EC84B5AC3}|Domain\\Domain.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\domain\\enums\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F4317E3-CF30-4899-94E3-182EC84B5AC3}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B6B1DF5-F119-4DB1-BCC9-C7B9E9170A0E}|Application\\Application.csproj|d:\\_development vault\\_current project\\shabrawy pharma company project\\shabrawy api\\application\\auth\\systemroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 294,
-          "SelectedChildIndex": 52,
+          "SelectedChildIndex": 54,
           "Children": [
             {
               "$type": "Bookmark",
@@ -262,33 +274,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Shabrawy API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Shabrawy API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-08T18:12:14.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\appsettings.json",
-              "RelativeDocumentMoniker": "Shabrawy API\\appsettings.json",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\appsettings.json",
-              "RelativeToolTip": "Shabrawy API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-08T18:12:07.717Z",
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T07:13:57.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TokenService.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:37:12.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:23:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:20:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:18:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T07:12:50.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "Shabrawy API\\Extensions\\ServiceCollectionExtensions.cs",
@@ -301,7 +365,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\ResponseWrapper\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseWrapper\\ServiceResponse.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\ResponseWrapper\\ServiceResponse.cs",
+              "RelativeToolTip": "Application\\ResponseWrapper\\ServiceResponse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:56:50.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T03:21:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "APIResponse.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\ResponseWrapper\\APIResponse.cs",
               "RelativeDocumentMoniker": "Shabrawy API\\ResponseWrapper\\APIResponse.cs",
@@ -314,46 +404,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\ResponseWrapper\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "Application\\ResponseWrapper\\ServiceResponse.cs",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\ResponseWrapper\\ServiceResponse.cs",
-              "RelativeToolTip": "Application\\ResponseWrapper\\ServiceResponse.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:56:50.597Z",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\appsettings.json",
+              "RelativeDocumentMoniker": "Shabrawy API\\appsettings.json",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\appsettings.json",
+              "RelativeToolTip": "Shabrawy API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T18:12:07.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:21:58.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:20:52.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Shabrawy API\\Controllers\\AuthController.cs",
@@ -366,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\AppUser.cs",
@@ -374,23 +438,25 @@
               "RelativeToolTip": "Domain\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAlwA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:18:25.875Z"
+              "WhenOpened": "2026-10-05T03:18:25.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\ITokenService.cs",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\ITokenService.cs",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Shabrawy API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Shabrawy API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:23:07.353Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T18:12:14.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Shabrawy API\\Program.cs",
               "RelativeDocumentMoniker": "Shabrawy API\\Program.cs",
@@ -398,11 +464,12 @@
               "RelativeToolTip": "Shabrawy API\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:11:26.78Z"
+              "WhenOpened": "2026-10-05T03:11:26.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ShabrawyContextDesignFactory.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Infrastructure\\Data\\ShabrawyContextDesignFactory.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ShabrawyContextDesignFactory.cs",
@@ -410,11 +477,12 @@
               "RelativeToolTip": "Infrastructure\\Data\\ShabrawyContextDesignFactory.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:19:05.435Z"
+              "WhenOpened": "2026-10-05T03:19:05.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ShabrawyContext.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Infrastructure\\Data\\ShabrawyContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ShabrawyContext.cs",
@@ -422,11 +490,12 @@
               "RelativeToolTip": "Infrastructure\\Data\\ShabrawyContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:18:52.419Z"
+              "WhenOpened": "2026-10-05T03:18:52.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "AccountStatus.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Domain\\Enums\\AccountStatus.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\AccountStatus.cs",
@@ -434,23 +503,12 @@
               "RelativeToolTip": "Domain\\Enums\\AccountStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:18:43.254Z"
+              "WhenOpened": "2026-10-05T03:18:43.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\DTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "Application\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:18:03.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "SystemRoles.cs",
               "DocumentMoniker": "D:\\_Development Vault\\_Current Project\\Shabrawy Pharma Company Project\\Shabrawy API\\Application\\Auth\\SystemRoles.cs",
               "RelativeDocumentMoniker": "Application\\Auth\\SystemRoles.cs",
@@ -458,7 +516,8 @@
               "RelativeToolTip": "Application\\Auth\\SystemRoles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T03:17:53.741Z"
+              "WhenOpened": "2026-10-05T03:17:53.741Z",
+              "EditorCaption": ""
             }
           ]
         },
