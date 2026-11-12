@@ -68,28 +68,28 @@ namespace Application.Services
             {
                 return ServiceResponse<LoginResponseDTO>.ErrorResponse("Invalid email or password");
             }
-            if (!user.EmailConfirmed)
-            {
-                return ServiceResponse<LoginResponseDTO>.ErrorResponse(
-                    "Please verify your email first");
-            }
+            //if (!user.EmailConfirmed)
+            //{
+            //    return ServiceResponse<LoginResponseDTO>.ErrorResponse(
+            //        "Please verify your email first");
+            //}
             var signInResult = await _signInManager.CheckPasswordSignInAsync(
                 user,
                 loginDTO.Password,
                 lockoutOnFailure: true
             );
 
-            if (signInResult.IsLockedOut)
-            {
-                return ServiceResponse<LoginResponseDTO>.ErrorResponse("Account is locked");
-            }
+            //if (signInResult.IsLockedOut)
+            //{
+            //    return ServiceResponse<LoginResponseDTO>.ErrorResponse("Account is locked");
+            //}
 
-            if (signInResult.IsNotAllowed)
-            {
-                return ServiceResponse<LoginResponseDTO>.ErrorResponse(
-                    "Account is not allowed to login"
-                );
-            }
+            //if (signInResult.IsNotAllowed)
+            //{
+            //    return ServiceResponse<LoginResponseDTO>.ErrorResponse(
+            //        "Account is not allowed to login"
+            //    );
+            //}
 
             if (!signInResult.Succeeded)
             {
