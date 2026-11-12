@@ -1,0 +1,21 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / IDE cache & user files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+Application/bin
+Application/obj
+Domain/bin
+Domain/obj
+Infrastructure/bin
+Infrastructure/obj
+Shabrawy/bin
+Shabrawy/obj
